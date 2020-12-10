@@ -1,0 +1,13 @@
+ - *DONE* Generate random game
+ - *DONE* Undo button
+ - *DONE* Input numbers
+ - *DONE* Validate inputs
+   - Check for valid game input
+   - Color invalid squares red
+ - *DONE* If game has started (stepNumber > 0), prompt before loading new game or starting over
+ - Auto-Solver
+   - Use python script ported to JS
+ - *DONE* Numbers not in original board state are colored differently to make it clear which values can be changed
+ - *DONE* Restart button (slice original board state, revert stepNumber to 0)
+ - Determine when game won and lock board and undo/solve buttons (leave restart)
+ - *DONE* Count and display optimal number of moves for current puzzle
