@@ -1,3 +1,3 @@
 # Sudoku
 
-Uses React to implement a Sudoku browser game.
+Sudoku browser game implemented using React.
